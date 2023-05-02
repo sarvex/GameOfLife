@@ -18,7 +18,7 @@ configurations {
 
 dependencies {
     pmd 'pmd:pmd:4.3'
-    findbugs 'com.google.code.findbugs:findbugs:1.3.9'
+    findbugs 'com.google.code.findbugs:findbugs:3.0.1'
 }
 
 task pmd << {
