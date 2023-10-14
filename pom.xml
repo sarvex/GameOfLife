@@ -16,7 +16,7 @@
         <sourceJdk>1.8</sourceJdk>
         <targetJdk>1.8</targetJdk>
         <github.account>wakaleo</github.account>
-        <thucydides.version>4.0.14</thucydides.version>
+        <thucydides.version>4.0.15</thucydides.version>
         <jelastic.context>gameoflife</jelastic.context>
         <jelastic.environment>wakaleo</jelastic.environment>
     </properties>
